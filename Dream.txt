@@ -1,6 +1,6 @@
 //1
 
-В очаровании русского пейзажа
+B очаровании русского пейзажа
 Есть подленная радость но она,
 Открыта не для каждого и даже,
 Не каждому художнику видна.
@@ -8,17 +8,19 @@
 //2
 
 October has already come - the grove is shaking off
-The last leaves from their naked branches;
-The autumn cold has died - the road is freezing.
-The stream is still running behind the mill,
+ The last leaves from their naked branches;
+ The autumn cold has died - the road is freezing.
+ The stream is still running behind the mill,
 
 
 //3
+
 На золотом крыльце сидели
 Царь-царевич
 Король-королевич
 Сапожник, портной
 Кто ты будешь такой?
+
 //4
 "У Лукаморья дуб зеленый,
 Златая цепь на дубе том
