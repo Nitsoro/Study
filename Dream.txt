@@ -12,7 +12,6 @@ October has already come - the grove is shaking off
  The autumn cold has died - the road is freezing.
  The stream is still running behind the mill,
 
-
 //3
 
 На золотом крыльце сидели
@@ -22,13 +21,10 @@ October has already come - the grove is shaking off
 Кто ты будешь такой?
 
 //4
+
 "У Лукаморья дуб зеленый,
 Златая цепь на дубе том
 И днем и ночью
 Кот ученый всё ходит"
-//FINISH!!!
 
-<<<<<<< HEAD
-=======
 //FINISH!!!
->>>>>>> fb6b36e70ff38dd661c977c91e893e65f615f88e
