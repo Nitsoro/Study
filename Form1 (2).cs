@@ -23,7 +23,7 @@ namespace Opl
             int k;
             int a;
             a = Convert.ToInt32(textBox1.Text);
-            for (k=0;k<a;k++)
+            while ()
             {
                 int b = a % 10;
                 a = a / 10;
@@ -31,6 +31,7 @@ namespace Opl
                 {
                     o++;
                 }
+               
             }
 
             string z = Convert.ToString(o);
