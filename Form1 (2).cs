@@ -19,15 +19,23 @@ namespace Opl
 
         private void Button1_Click(object sender, EventArgs e)
         {
-            int k = 0;
+            int o = 0;
+            int k;
             int a;
             a = Convert.ToInt32(textBox1.Text);
-            for (k=0;a<k;k++)
+            for (k=0;k<a;k++)
             {
                 int b = a % 10;
-                if (b==3)
-
+                a = a / 10;
+                if (b == 3)
+                {
+                    o++;
+                }
             }
+
+            string z = Convert.ToString(o);
+            MessageBox.Show(z);
         }
+
     }
 }
