@@ -39,7 +39,7 @@ namespace Opl
                 }
             }
             string z = Convert.ToString(o);
-            MessageBox.Show(z);
+            MessageBox.Show( z);
         }
 
     }
